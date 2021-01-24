@@ -5,31 +5,31 @@
     <STUDENT>
         <INFO>STUDENT-1 DETAILS</INFO>
         <USN>USN:4SF17CS072</USN>
-        <NAME>NAME:KAVYA K KAMATH</NAME>
+        <NAME>NAME:JAGGU</NAME>
         <COLLEGE>SAHYADRI</COLLEGE>
         <BRANCH>BRANCH:CSE</BRANCH>
         <YEAR>YEAR:2017</YEAR>
-        <EMAIL>EMAIL ID:kamathkavyak@gmail.com</EMAIL>
+        <EMAIL>EMAIL ID:jaggu@gmail.com</EMAIL>
     </STUDENT>
 
     <STUDENT>
         <INFO>STUDENT-2 DETAILS</INFO>
         <USN>USN:4SF17CS169</USN>
-        <NAME>NAME:SWATHI ACHARYA</NAME>
+        <NAME>NAME:MONTY</NAME>
         <COLLEGE>SAHYADRI</COLLEGE>
         <BRANCH>BRANCH:CSE</BRANCH>
         <YEAR>YEAR:2017</YEAR>
-        <EMAIL>EMAIL ID:acharyaswathi999@gmail.com</EMAIL>
+        <EMAIL>EMAIL ID:monty@gmail.com</EMAIL>
     </STUDENT>
 
     <STUDENT>
         <INFO>STUDENT-3 DETAILS</INFO>
         <USN>USN:4SF17CS169</USN>
-        <NAME>NAME:VARSHA P BHAT</NAME>
+        <NAME>NAME:CHUTKi</NAME>
         <COLLEGE>SAHYADRI</COLLEGE>
         <BRANCH>BRANCH:ISE</BRANCH>
         <YEAR>YEAR:2017</YEAR>
-        <EMAIL>EMAIL ID:varshapbhat@gmail.com</EMAIL>
+        <EMAIL>EMAIL ID:chutki@gmail.com</EMAIL>
     </STUDENT>
 
 </STUDENTDATA>

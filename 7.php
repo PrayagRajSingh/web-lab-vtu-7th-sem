@@ -13,7 +13,7 @@
 	echo "<h1>Digital Clock</h1>";
 	echo "<hr/>";
 	date_default_timezone_set('Asia/Kolkata');
-	echo "<h1>".date('d-m-Y H:i:sa') ."</h1>";
+	echo "<h1>".date('d-m-Y H:i:s a')."</h1>";
 	echo "<hr/>";
    ?>
 </body>
